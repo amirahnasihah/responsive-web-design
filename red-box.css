@@ -1,0 +1,19 @@
+<style>
+  :root {
+    --red-color: red;
+  }
+  .red-box {
+    background: red;
+    background: var(--red-color);
+    height: 200px;
+    width:200px;
+  }
+</style>
+<div class="red-box"></div>
+
+/*
+To provide browser fallbacks to avoid potential problems in browser compatibility issues.
+Provide another more widely supported value immediately before your declaration. That way an older browser will have something to fall back on, while a newer browser will just interpret whatever declaration comes later in the cascade.
+
+Improve browser compatibility by adding another background declaration right before the existing declaration and set its value to red.
+*/
