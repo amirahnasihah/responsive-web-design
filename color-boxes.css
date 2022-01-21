@@ -9,6 +9,10 @@
     color: pink;
   }
 
+	.blue-text {
+    color: blue;
+	}
+
   .injected-text {
     margin-bottom: -25px;
     text-align: center;
@@ -40,7 +44,7 @@
     margin: 40px 20px 20px 40px;
   }
 </style>
-<h1 class="pink-text">Hello World</h1>
+<h1 class="pink-text blue-text">Hello World</h1>
 
 <h5 class="injected-text">margin</h5>
 
