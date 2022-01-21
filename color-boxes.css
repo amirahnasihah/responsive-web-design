@@ -1,6 +1,6 @@
 <style>
   body {
-    background-color: black;
+    background-color: #000000;
     font-family: monospace;
     color: green;
   }
@@ -8,9 +8,8 @@
     color: orange;
   }
   .pink-text {
-    color: pink;
+    color: pink !important;
   }
-
   .blue-text {
     color: blue;
   }
@@ -41,7 +40,7 @@
     margin: 40px 20px 20px 40px;
   }
 </style>
-<h1 id="orange=text" class="pink-text blue-text">Hello World</h1>
+<h1 id="orange=text" class="pink-text blue-text" style="color:white;">Hello World</h1>
 
 <h5 class="injected-text">margin</h5>
 
