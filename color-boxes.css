@@ -1,7 +1,13 @@
 <style>
- body {
-  background-color: black;
-}
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }
+
+  .pink-text {
+    color: pink;
+  }
 
   .injected-text {
     margin-bottom: -25px;
@@ -34,6 +40,8 @@
     margin: 40px 20px 20px 40px;
   }
 </style>
+<h1 class="pink-text">Hello World</h1>
+
 <h5 class="injected-text">margin</h5>
 
 <div class="box yellow-box">
