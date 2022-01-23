@@ -25,6 +25,9 @@
   }
   p {
     font-size: 16px;
+    p {
+    font-size: 16px;
+    line-height: 25px;
   }
 </style>
 <h1>This is h1 text</h1>
