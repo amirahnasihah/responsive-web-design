@@ -1,12 +1,13 @@
 # Responsive Web Design
 
-## HTML
+## 🦴 HTML
 The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScript.
 
-## CSS
+## 👷🏻‍♀️ CSS
 CSS, or Cascading Style Sheets, tell the browser how to display the text and other content that you write in HTML. With CSS, you can control the color, font, size, spacing, and many other aspects of HTML elements.
 
 
+## 🚀 Projects
 
 Time to put your newly learned skills to work. By working on these projects, you will get a chance to apply all of the skills, principles, and concepts you have learned so far: HTML, CSS, Visual Design, Accessibility, and more.
 
