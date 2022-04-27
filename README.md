@@ -1,5 +1,7 @@
 # Responsive Web Design
 
+Based on free online course from [freeCodeCamp](https://freecodecamp.org/).
+
 ## 🦴 HTML
 The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScript.
 
@@ -9,9 +11,9 @@ CSS, or Cascading Style Sheets, tell the browser how to display the text and oth
 
 ## 🚀 Projects
 
-Time to put your newly learned skills to work. By working on these projects, you will get a chance to apply all of the skills, principles, and concepts you have learned so far: HTML, CSS, Visual Design, Accessibility, and more.
+Time to put newly learned skills to work. By working on these projects, will get a chance to apply all of the skills, principles, and concepts that have learned so far: HTML, CSS, Visual Design, Accessibility, and more.
 
-Complete the five web programming projects below to earn your Responsive Web Design certification.
+Complete the five web programming projects below to earn Responsive Web Design certification.
 
 - **Build a [Survey Form](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form/)**
   - [solution](https://codepen.io/amirahnasihah/pen/XWVdgoV)
