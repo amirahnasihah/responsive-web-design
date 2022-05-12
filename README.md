@@ -1,6 +1,8 @@
 # Responsive Web Design
 
-Based on free online course from [freeCodeCamp](https://freecodecamp.org/).
+Based on free online course from [freeCodeCamp](https://freecodecamp.org/)
+
+Credential URL: [e-Certificate](https://freecodecamp.org/certification/amirahnasihah/responsive-web-design)
 
 ## 🦴 HTML
 The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScript.
@@ -25,3 +27,6 @@ Complete the five web programming projects below to earn Responsive Web Design c
   - [solution](https://codepen.io/amirahnasihah/pen/xxpRxWR)
 - **Build a Personal [Portfolio Webpage](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage/)**
   - [solution](https://codepen.io/amirahnasihah/pen/PoEbwoV)
+
+---
+[GitHub projects link](https://github.com/amirahnasihah/responsive-web-design)
